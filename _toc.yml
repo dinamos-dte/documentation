@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: docs/intro.md
+
+parts:
+- caption: The IMQCAM Data Portal
+  chapters: 
+  - file: docs/data_portal/upload_forms
+- caption: Documentation User's Guide
+  chapters:
+  - file: docs/markdown
+  - file: docs/notebooks
+  - file: docs/markdown-notebooks
