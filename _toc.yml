@@ -5,7 +5,7 @@ format: jb-book
 root: docs/intro.md
 
 parts:
-- caption: The IMQCAM Data Portal
+- caption: The DINAMOS Data Portal and DTE
   chapters: 
   - file: docs/data_portal/upload_forms
 - caption: Documentation User's Guide
